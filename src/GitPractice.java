@@ -5,7 +5,6 @@ public class GitPractice {
 		System.out.println("bala");
 		System.out.println("Nelwade");
 		System.out.println("2nd commit");
-
 	}
 
 }
